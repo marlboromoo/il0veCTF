@@ -1,0 +1,3 @@
+http://php.net/manual/en/function.exif-imagetype.php
+
+exif_imagetype() reads the first bytes of an image and checks its signature.

